@@ -1,0 +1,14 @@
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.exe.config
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.exe
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.pdb
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.exe
+C:\Users\zhang\source\repos\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.pdb
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.exe.config
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.exe
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\bin\Debug\InterfaceExceptionHandling.pdb
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.exe
+C:\Users\zhang\source\repos\C#\InterfaceExceptionHandling\InterfaceExceptionHandling\obj\Debug\InterfaceExceptionHandling.pdb
